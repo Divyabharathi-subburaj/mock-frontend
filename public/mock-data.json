@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Green Plant",
+      "category": "Plants",
+      "image": "/assets/plant1.jpg",
+      "description": "A small green plant ideal for indoor spaces.",
+      "price": 12.5,
+      "rating": 4.3
+    },
+    {
+      "id": 2,
+      "title": "Desk Lamp",
+      "category": "Home",
+      "image": "/assets/lamp1.jpg",
+      "description": "Adjustable desk lamp with warm lighting.",
+      "price": 24.0,
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "title": "Ceramic Mug",
+      "category": "Kitchen",
+      "image": "/assets/mug1.jpg",
+      "description": "A sturdy ceramic mug for daily use.",
+      "price": 8.0,
+      "rating": 4.1
+    },
+    {
+      "id": 4,
+      "title": "Bluetooth Speaker",
+      "category": "Electronics",
+      "image": "/assets/speaker1.jpg",
+      "description": "Portable speaker with great bass.",
+      "price": 45.0,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Running Shoes",
+      "category": "Fashion",
+      "image": "/assets/shoes1.jpg",
+      "description": "Lightweight shoes for running.",
+      "price": 60.0,
+      "rating": 4.4
+    }
+  ]
+}
